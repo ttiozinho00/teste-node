@@ -60,5 +60,5 @@ $ node seed.js
 $ npm start ou yarn start
 ```
 
-**Importante:** Cuidado ao alterar/excluir a imagem de placeholder da pasta `plublic/images`, pois os produtos gerados pelo `seed.js` compartilham esse arquivo entre si.
+**Importante:** Cuidado ao alterar/excluir a imagem da pasta `plublic/images`, pois os produtos gerados pelo `seed.js` compartilham esse arquivo entre si.
 
